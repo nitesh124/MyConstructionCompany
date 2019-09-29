@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+}
+.navbar-ul{
+  list-style-type: none;
+  margin-top: 30px;
+  padding: 0px 0px;
+  overflow: hidden;
+  background-color: #020322;
+  border-radius: 15px;
+}
+.navbar-a{
+  display: block;
+  color: white;
+  padding: 20px 20px;
+  text-decoration: none;
+  float: right;
+  font-weight: bold;
+  font-size: 110%;
+}
+.navbar-a:hover{
+  background-color: #111;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+.logo{
+float: left;
+background-color: #000;
+overflow: hidden;
+padding: 0px 0px;
+}
+.navbar{
+  float: right;
+  padding: 0px 0px;
+  width: 85%;
+}
+.bg {
+  background-image: url("http://getwallpapers.com/wallpaper/full/2/8/4/620681.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.h1{
+  text-align: center;
+  color: white;
+  font-size: 310%;
+}
+.h1:hover{
+  color: yellow;
+}
+.h2{
+  text-align: center;
+  color: yellow;
+  font-size: 310%;
+}
+.h2:hover{
+  color: white;
+}
